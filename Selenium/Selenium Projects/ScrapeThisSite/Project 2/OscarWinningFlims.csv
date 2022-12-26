@@ -1,17 +1,4 @@
 ,Tilte,Nominations,Awards,Year
-0,The King's Speech,12,4,2010
-1,Inception,8,4,2010
-2,The Social Network,8,3,2010
-3,The Fighter,7,2,2010
-4,Toy Story 3,5,2,2010
-5,Alice in Wonderland,3,2,2010
-6,Black Swan,5,1,2010
-7,In a Better World,1,1,2010
-8,The Lost Thing,1,1,2010
-9,God of Love,1,1,2010
-10,The Wolfman,1,1,2010
-11,Strangers No More,1,1,2010
-12,Inside Job,1,1,2010
 0,The Artist,10,5,2011
 1,Hugo,11,5,2011
 2,The Iron Lady,2,2,2011
@@ -27,136 +14,62 @@
 12,Saving Face,1,1,2011
 13,Beginners,1,1,2011
 14,Rango,1,1,2011
-0,Argo,7,3,2012
-1,Life of Pi,11,4,2012
-2,Les Misérables,8,3,2012
-3,Lincoln,12,2,2012
-4,Django Unchained,5,2,2012
-5,Skyfall,5,2,2012
-6,Silver Linings Playbook,8,1,2012
-7,Zero Dark Thirty,5,1,2012
-8,Amour,5,1,2012
-9,Anna Karenina,4,1,2012
-10,Paperman,1,1,2012
-11,Brave,1,1,2012
-12,Searching for Sugar Man,1,1,2012
-13,Inocente,1,1,2012
-14,Curfew,1,1,2012
-0,12 Years a Slave,9,3,2013
-1,Gravity,10,7,2013
-2,Dallas Buyers Club,6,3,2013
-3,Frozen,2,2,2013
-4,The Great Gatsby,2,2,2013
-5,Her,5,1,2013
-6,Blue Jasmine,3,1,2013
-7,Mr Hublot,1,1,2013
-8,The Lady in Number 6: Music Saved My Life,1,1,2013
-9,Helium,1,1,2013
-10,The Great Beauty,1,1,2013
-11,20 Feet from Stardom,1,1,2013
-0,Birdman,9,4,2014
-1,The Grand Budapest Hotel,9,4,2014
-2,Whiplash,5,3,2014
-3,The Imitation Game,8,1,2014
-4,American Sniper,6,1,2014
-5,Boyhood,6,1,2014
-6,Interstellar,5,1,2014
-7,The Theory of Everything,5,1,2014
-8,Ida,2,1,2014
-9,Selma,2,1,2014
-10,Citizenfour,1,1,2014
-11,Big Hero 6,1,1,2014
-12,Crisis Hotline: Veterans Press 1,1,1,2014
-13,The Phone Call,1,1,2014
-14,Still Alice,1,1,2014
-15,Feast,1,1,2014
-0,Spotlight,6,2,2015
-1,Mad Max: Fury Road,10,6,2015
-2,The Revenant,12,3,2015
-3,Bridge of Spies,6,1,2015
-4,The Big Short,5,1,2015
-5,The Danish Girl,4,1,2015
-6,Room,4,1,2015
-7,Ex Machina,2,1,2015
-8,The Hateful Eight,2,1,2015
-9,Inside Out,2,1,2015
-10,Amy,1,1,2015
-11,Bear Story,1,1,2015
-12,A Girl in the River: The Price of Forgiveness,1,1,2015
-13,Son of Saul,1,1,2015
-14,Spectre,1,1,2015
-15,Stutterer,1,1,2015
-0,The Artist,10,5,2011
-1,Hugo,11,5,2011
-2,The Iron Lady,2,2,2011
-3,The Descendants,5,1,2011
-4,The Girl with the Dragon Tattoo,5,1,2011
-5,Midnight in Paris,4,1,2011
-6,The Help,4,1,2011
-7,A Separation,2,1,2011
-8,The Fantastic Flying Books of Mr. Morris Lessmore,1,1,2011
-9,The Shore,1,1,2011
-10,Undefeated,1,1,2011
-11,The Muppets,1,1,2011
-12,Saving Face,1,1,2011
-13,Beginners,1,1,2011
-14,Rango,1,1,2011
-0,Argo,7,3,2012
-1,Life of Pi,11,4,2012
-2,Les Misérables,8,3,2012
-3,Lincoln,12,2,2012
-4,Django Unchained,5,2,2012
-5,Skyfall,5,2,2012
-6,Silver Linings Playbook,8,1,2012
-7,Zero Dark Thirty,5,1,2012
-8,Amour,5,1,2012
-9,Anna Karenina,4,1,2012
-10,Paperman,1,1,2012
-11,Brave,1,1,2012
-12,Searching for Sugar Man,1,1,2012
-13,Inocente,1,1,2012
-14,Curfew,1,1,2012
-0,12 Years a Slave,9,3,2013
-1,Gravity,10,7,2013
-2,Dallas Buyers Club,6,3,2013
-3,Frozen,2,2,2013
-4,The Great Gatsby,2,2,2013
-5,Her,5,1,2013
-6,Blue Jasmine,3,1,2013
-7,Mr Hublot,1,1,2013
-8,The Lady in Number 6: Music Saved My Life,1,1,2013
-9,Helium,1,1,2013
-10,The Great Beauty,1,1,2013
-11,20 Feet from Stardom,1,1,2013
-0,Birdman,9,4,2014
-1,The Grand Budapest Hotel,9,4,2014
-2,Whiplash,5,3,2014
-3,The Imitation Game,8,1,2014
-4,American Sniper,6,1,2014
-5,Boyhood,6,1,2014
-6,Interstellar,5,1,2014
-7,The Theory of Everything,5,1,2014
-8,Ida,2,1,2014
-9,Selma,2,1,2014
-10,Citizenfour,1,1,2014
-11,Big Hero 6,1,1,2014
-12,Crisis Hotline: Veterans Press 1,1,1,2014
-13,The Phone Call,1,1,2014
-14,Still Alice,1,1,2014
-15,Feast,1,1,2014
-0,Spotlight,6,2,2015
-1,Mad Max: Fury Road,10,6,2015
-2,The Revenant,12,3,2015
-3,Bridge of Spies,6,1,2015
-4,The Big Short,5,1,2015
-5,The Danish Girl,4,1,2015
-6,Room,4,1,2015
-7,Ex Machina,2,1,2015
-8,The Hateful Eight,2,1,2015
-9,Inside Out,2,1,2015
-10,Amy,1,1,2015
-11,Bear Story,1,1,2015
-12,A Girl in the River: The Price of Forgiveness,1,1,2015
-13,Son of Saul,1,1,2015
-14,Spectre,1,1,2015
-15,Stutterer,1,1,2015
+15,Argo,7,3,2012
+16,Life of Pi,11,4,2012
+17,Les Misérables,8,3,2012
+18,Lincoln,12,2,2012
+19,Django Unchained,5,2,2012
+20,Skyfall,5,2,2012
+21,Silver Linings Playbook,8,1,2012
+22,Zero Dark Thirty,5,1,2012
+23,Amour,5,1,2012
+24,Anna Karenina,4,1,2012
+25,Paperman,1,1,2012
+26,Brave,1,1,2012
+27,Searching for Sugar Man,1,1,2012
+28,Inocente,1,1,2012
+29,Curfew,1,1,2012
+30,12 Years a Slave,9,3,2013
+31,Gravity,10,7,2013
+32,Dallas Buyers Club,6,3,2013
+33,Frozen,2,2,2013
+34,The Great Gatsby,2,2,2013
+35,Her,5,1,2013
+36,Blue Jasmine,3,1,2013
+37,Mr Hublot,1,1,2013
+38,The Lady in Number 6: Music Saved My Life,1,1,2013
+39,Helium,1,1,2013
+40,The Great Beauty,1,1,2013
+41,20 Feet from Stardom,1,1,2013
+42,Birdman,9,4,2014
+43,The Grand Budapest Hotel,9,4,2014
+44,Whiplash,5,3,2014
+45,The Imitation Game,8,1,2014
+46,American Sniper,6,1,2014
+47,Boyhood,6,1,2014
+48,Interstellar,5,1,2014
+49,The Theory of Everything,5,1,2014
+50,Ida,2,1,2014
+51,Selma,2,1,2014
+52,Citizenfour,1,1,2014
+53,Big Hero 6,1,1,2014
+54,Crisis Hotline: Veterans Press 1,1,1,2014
+55,The Phone Call,1,1,2014
+56,Still Alice,1,1,2014
+57,Feast,1,1,2014
+58,Spotlight,6,2,2015
+59,Mad Max: Fury Road,10,6,2015
+60,The Revenant,12,3,2015
+61,Bridge of Spies,6,1,2015
+62,The Big Short,5,1,2015
+63,The Danish Girl,4,1,2015
+64,Room,4,1,2015
+65,Ex Machina,2,1,2015
+66,The Hateful Eight,2,1,2015
+67,Inside Out,2,1,2015
+68,Amy,1,1,2015
+69,Bear Story,1,1,2015
+70,A Girl in the River: The Price of Forgiveness,1,1,2015
+71,Son of Saul,1,1,2015
+72,Spectre,1,1,2015
+73,Stutterer,1,1,2015
